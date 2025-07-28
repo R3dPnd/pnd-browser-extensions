@@ -1,0 +1,28 @@
+{
+  "name": "my-browser-extension",
+  "version": "1.0.0",
+  "description": "A modern Chromium browser extension built with Manifest V3",
+  "main": "manifest.json",
+  "scripts": {
+    "build": "echo 'No build process needed for this extension'",
+    "dev": "echo 'Load extension in chrome://extensions/ with Developer mode enabled'",
+    "package": "echo 'Use chrome://extensions/ > Pack extension to create .crx file'"
+  },
+  "keywords": [
+    "chrome-extension",
+    "browser-extension",
+    "manifest-v3",
+    "javascript",
+    "chromium"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/pnd-browser-extensions.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/pnd-browser-extensions/issues"
+  },
+  "homepage": "https://github.com/yourusername/pnd-browser-extensions#readme"
+} 
